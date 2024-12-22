@@ -29,12 +29,16 @@ Below are the key tasks and concepts covered:
 - Crafted manual HTTP requests to test application behavior under edge cases.
 
 ### 2. SQL Injection (SQLi)
+![image](https://github.com/user-attachments/assets/0a772f62-86d2-4b80-8a3d-2ea778f565e5)
+![image](https://github.com/user-attachments/assets/30f626de-f3be-4aad-b892-1482d6a0667b)
 - Exploited SQL Injection vulnerabilities to extract sensitive database information.
 - Automated SQLi exploitation using SQLMap to enumerate databases, tables, and entries.
 - Tested Boolean-based and Union-based SQL Injection methods.
 - Demonstrated blind SQLi techniques for exploitation without visible output.
 
 ### 3. Cross-Site Scripting (XSS)
+![image](https://github.com/user-attachments/assets/d07d1311-1933-40ba-926c-3abf0cc57b35)
+
 - Exploited reflected and stored XSS vulnerabilities in web applications.
 - Injected malicious JavaScript payloads to demonstrate session hijacking and cookie theft.
 - Created custom payloads to evade common XSS filters.
@@ -92,7 +96,4 @@ Below are the key tasks and concepts covered:
 
 ---
 
-### Next Steps
-- Add screenshots and proof-of-concept results for each task.
-- Expand to cover additional topics like API security, SSRF, and cryptographic failures.
 
